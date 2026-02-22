@@ -13,7 +13,7 @@
 <p><b><h2 style="color: palevioletred;">pemudaa yapper yangg sayangg samaa pacarnyaa</b></h2><h3 style="color: palevioletred;">akuu di sinii gaa akan banyakk cacicu cumann bakal bawaa kamuu flashback mungkin di laman selanjutnyaa baruu akuu ucapin hbd buatt kamuu sayangg. <br>maaff yaa sayangg kalo webnyaa gaa rapihh, terus terang ajaa aku inii pemulaa cuman nyobaa nyobaa<br> ohh iyaa kalo mau liat detail dari si fotonya kamu bisaa hold open new tab</h3>
     <br><p>
 </body><br><center><audio src="audio dan foto/Backsound ceria untuk video pembelajaran  __ Instrumen Musik Ceria.mp3" controls ></audio></center>
-![alt text](https://github.com/drilga/untukpacarakuu/blob/main/IMG_20260222_220945.jpg?raw=true)
+<img src="audio dan foto/IMG_20260222_220945.jpg" alt="kinyis kinyis" width="200px" height="250px">
 <img src="audio dan foto/IMG_20260223_000951.jpg" alt="art" width="200" height="250">
 <img src="audio dan foto/IMG_20260222_220917.jpg" alt="gambaran kamu" width="200px" height="250px">
 <img src="audio dan foto/IMG_20260222_220848.jpg" alt="art" width="200px" height="250px">
